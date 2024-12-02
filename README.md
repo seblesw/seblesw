@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @seblesw
-- 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning clean code in Advance
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Seble Sefineh
+- React Developer
 
-<!---
-seblesw/seblesw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning clean code in Advance
+📫 How to reach me seblesoftware@gmail.com
+
+Connect with me: +251 901503274
+
